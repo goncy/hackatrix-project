@@ -1,0 +1,15 @@
+.ProfessionalsList {
+  margin-top: 62px;
+}
+
+.ProfessionalsList .card {
+  margin: 0.5rem;
+}
+
+.ProfessionalsList .card .card-content {
+  padding: 1rem;
+}
+
+.ProfessionalsList .notification {
+  margin: 0.5rem;
+}

@@ -1,0 +1,15 @@
+.NavBar.navbar {
+  display: flex;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.1);
+  position: fixed;
+  z-index: 9;
+  width: 100%;
+  top: 0;
+}
+
+.NavBar .container {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
